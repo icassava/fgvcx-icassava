@@ -16,9 +16,9 @@ For this challenge, we are using Kaggle to host the data and the leaderboard. Ch
 ## Dates (TBD)
 |||
 |----|---------------|
-Data Released| 11-March-2019|
-Submission Server Open | 15-March-2019|
-Submission Deadline|  15-May-2019|
+Data Released| 26-April-2019|
+Submission Server Open | 26-April-2019|
+Submission Deadline|  1-June-2019|
 Winners Announced| June 2019|
 
 ## Data
